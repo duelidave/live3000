@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "es2020",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "reactNamespace": "app",
+    "lib": ["dom", "es2020", "es6"],
+    "experimentalDecorators": true,
+    "sourceMap": true
+  }
+}
